@@ -15,7 +15,7 @@ The main goal of presented work is to develop a simulink model for a small exper
 This project is currently in work and repository will be further updated to include new and improved models of the Magnus effect-based wind generator.
 
 ## 01.07.2021: 
-The first version of the model is finished. Model inclused aerodynamic and mechanical subsystems.
+The first version of the model is finished. Model includes aerodynamic and mechanical subsystems.
 MWT_model_input.m file contains input parameters for simulation which can be tuned to a current configuration of the wind generator. 
 MWT_model_simulink.slx file contains simulink model with different variations of wind and cylinder speeds.
 
