@@ -19,5 +19,5 @@ The first version of the model is finished. Model includes aerodynamic and mecha
 MWT_model_input.m file contains input parameters for simulation which can be tuned to a current configuration of the wind generator. 
 MWT_model_simulink.slx file contains simulink model with different variations of wind and cylinder speeds.
 
-## 25.07.2023: 
+## 25.07.2022: 
 The model is updated. New model includes aerodinamic block based on CFD simulation, a model for the motor of cylindrical blades and multiple MPPT controllers.
